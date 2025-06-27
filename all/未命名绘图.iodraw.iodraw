@@ -44,7 +44,7 @@
         <mxCell id="r-qgwEp92FESyBDoFZMk-9" value="随机初始化每个粒子的速度和位置" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="r-qgwEp92FESyBDoFZMk-12" value="随机初始化每个粒子的速度和位置" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="r-qgwEp92FESyBDoFZMk-12" value="更新每个粒子的速度和位置" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="440" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
