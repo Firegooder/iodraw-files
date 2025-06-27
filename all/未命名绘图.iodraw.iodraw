@@ -25,7 +25,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r-qgwEp92FESyBDoFZMk-4" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;初始化粒子群参数和初始最优解&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="160" width="130" height="40" as="geometry" />
+          <mxGeometry x="150" y="160" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r-qgwEp92FESyBDoFZMk-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r-qgwEp92FESyBDoFZMk-6" target="WIyWlLk6GJQsqaUBKTNV-10">
           <mxGeometry relative="1" as="geometry" />
@@ -50,17 +50,20 @@
         <mxCell id="r-qgwEp92FESyBDoFZMk-12" value="更新每个粒子的速度和位置" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="440" width="140" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="r-qgwEp92FESyBDoFZMk-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r-qgwEp92FESyBDoFZMk-13" target="r-qgwEp92FESyBDoFZMk-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="r-qgwEp92FESyBDoFZMk-13" value="计算每个粒子的适应值" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="520" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r-qgwEp92FESyBDoFZMk-14" value="更新每个粒子的个体历史最优适应值和位置" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="600" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="r-qgwEp92FESyBDoFZMk-15" value="计算每个粒子的适应值" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="r-qgwEp92FESyBDoFZMk-15" value="更新群体历史最优适应值和位置" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="680" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r-qgwEp92FESyBDoFZMk-16" value="计算每个粒子的适应值" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="760" width="120" height="40" as="geometry" />
+          <mxGeometry x="150" y="760" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
