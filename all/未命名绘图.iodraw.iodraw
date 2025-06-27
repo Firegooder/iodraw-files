@@ -36,8 +36,13 @@
         <mxCell id="r-qgwEp92FESyBDoFZMk-6" value="随机初始化每个粒子的速度和位置" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="240" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="r-qgwEp92FESyBDoFZMk-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r-qgwEp92FESyBDoFZMk-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="r-qgwEp92FESyBDoFZMk-9" value="随机初始化每个粒子的速度和位置" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="250" width="120" height="40" as="geometry" />
+          <mxGeometry x="40" y="440" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
