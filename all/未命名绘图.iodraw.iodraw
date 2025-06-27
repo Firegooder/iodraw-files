@@ -37,15 +37,15 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="220" y="300" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="100" y="300" />
+              <mxPoint x="80" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="r-qgwEp92FESyBDoFZMk-9" value="随机初始化每个粒子的速度和位置" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="440" width="120" height="40" as="geometry" />
+          <mxGeometry x="20" y="440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r-qgwEp92FESyBDoFZMk-12" value="随机初始化每个粒子的速度和位置" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="50" y="450" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="440" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
